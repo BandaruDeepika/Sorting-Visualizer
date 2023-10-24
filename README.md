@@ -9,6 +9,10 @@ Implemented algorithms:
 4.Merge sort
 5.Quick sort
 6.Heap sort
+
+
+
+
 Features:
 
 1.Colored representation of step being executed. 
